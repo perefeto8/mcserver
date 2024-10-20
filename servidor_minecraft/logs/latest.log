@@ -1,0 +1,50 @@
+[20Oct2024 00:02:44.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=477, y=65, z=-632} BlockPos{x=479, y=63, z=-632}
+[20Oct2024 00:04:53.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20Oct2024 00:15:47.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[20Oct2024 00:16:06.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3584ms or 71 ticks behind
+[20Oct2024 00:16:34.238] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/17669, l='ServerLevel[world]', x=495.27, y=62.35, z=-650.39] died, message: 'Fisherman tried to swim in lava'
+[20Oct2024 00:23:02.350] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/25032, l='ServerLevel[world]', x=494.34, y=63.52, z=-650.48] died, message: 'Fisherman tried to swim in lava'
+[20Oct2024 00:27:08.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[20Oct2024 00:28:43.653] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['esteban'/26017, l='ServerLevel[world]', x=482.69, y=64.39, z=-632.10] died: esteban burned to death
+[20Oct2024 00:30:06.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 0.003253303084250092,8.082378804507783,16.379320823906596
+[20Oct2024 00:38:06.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -1.055860622747332,4.46560390443193,-17.487520361968905
+[20Oct2024 00:38:06.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2242ms or 44 ticks behind
+[20Oct2024 00:38:10.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 0.8938323752227006,4.842550685641299,-17.313285596859885
+[20Oct2024 01:00:27.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[20Oct2024 01:04:41.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 was slain by Iron Golem
+[20Oct2024 01:04:41.055] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[20Oct2024 01:08:32.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=529, y=68, z=-651} BlockPos{x=529, y=66, z=-649}
+[20Oct2024 01:11:20.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[20Oct2024 01:22:07.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20Oct2024 01:33:10.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
+[20Oct2024 01:43:56.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[20Oct2024 01:55:00.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[20Oct2024 02:06:11.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[20Oct2024 02:17:08.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[20Oct2024 02:28:08.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[20Oct2024 02:39:10.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20Oct2024 02:46:42.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Timed out
+[20Oct2024 02:46:42.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[20Oct2024 02:51:06.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.215.238.72:36409] logged in with entity id 77826 at (504.30000001192093, 75.0, -665.6999999880791)
+[20Oct2024 02:51:07.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[20Oct2024 02:51:07.057] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[20Oct2024 03:01:16.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[20Oct2024 03:12:08.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[20Oct2024 03:22:53.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[20Oct2024 03:30:42.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[20Oct2024 03:31:35.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2387ms or 47 ticks behind
+[20Oct2024 03:32:11.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[20Oct2024 03:32:11.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[20Oct2024 03:32:21.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Oct2024 03:32:21.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Oct2024 03:32:21.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Oct2024 03:32:21.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Oct2024 03:32:21.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Oct2024 03:32:28.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[20Oct2024 03:32:28.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Oct2024 03:32:28.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Oct2024 03:32:28.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Oct2024 03:32:28.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[20Oct2024 03:32:28.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Oct2024 03:32:28.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Oct2024 03:32:28.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
